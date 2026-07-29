@@ -158,7 +158,7 @@ v++ --link \
     ~/kv260_build/scaler/VVAS/vvas-accel-hw/multiscaler/xo/v_multi_scaler.xo
 ```
 
-> ⚠️ This step takes approximately 1 hour.
+> ⚠️ This step takes time
 
 ---
 
