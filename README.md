@@ -31,8 +31,8 @@ XSCT, and used as the base for kernel linking via v++.
 
 Slides presented at **FPGA Conference Europa 2026** (https://www.fpga-conference.eu/):
 
-- [Download PPTX](./slides/kv260_conference.pptx)
-- [Download PDF](./slides/kv260_conference.pdf)
+- [Download PPTX](https://github.com/Yunus2155/kv260-dpu-scaler-overlay/raw/main/slides/kv260_conference.pptx)
+- [Download PDF](https://github.com/Yunus2155/kv260-dpu-scaler-overlay/raw/main/slides/kv260_conference.pdf)
 
 # How to Build the Overlay
 
