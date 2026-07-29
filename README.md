@@ -27,6 +27,13 @@ XSCT, and used as the base for kernel linking via v++.
 
 ---
 
+## Conference Presentation
+
+Slides presented at **FPGA Conference Europa 2026** (https://www.fpga-conference.eu/):
+
+- [Download PPTX](./slides/kv260_conference.pptx)
+- [Download PDF](./slides/kv260_conference.pdf)
+
 # How to Build the Overlay
 
 ## Prerequisites
